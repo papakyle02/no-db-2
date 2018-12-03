@@ -1,0 +1,1684 @@
+[
+        {
+            "deck": "A vehicular combat game for the NES. It was originally called Battle Formula in Japan, but Sunsoft purchased the license to Spy Hunter and was able to market the game as a sequel to the Spy Hunter game.",
+            "id": 8,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362280-nes_superspyhunter_eu.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362280-nes_superspyhunter_eu.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362280-nes_superspyhunter_eu.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362280-nes_superspyhunter_eu.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362280-nes_superspyhunter_eu.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362280-nes_superspyhunter_eu.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362280-nes_superspyhunter_eu.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362280-nes_superspyhunter_eu.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362280-nes_superspyhunter_eu.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Super Spy Hunter"
+        },
+        {
+            "deck": "Known as the granddaddy of the \"Quick Time Event\", Dragon's Lair is an interactive cartoon that lets players help guide the actions of brave knight Dirk the Daring, as he ventures through the dangerous castle of Singe the Dragon in order to rescue his beloved princess Daphne.",
+            "id": 23,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/213636-dragon_s_lair.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/213636-dragon_s_lair.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/213636-dragon_s_lair.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/213636-dragon_s_lair.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/213636-dragon_s_lair.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/213636-dragon_s_lair.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/213636-dragon_s_lair.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/213636-dragon_s_lair.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/213636-dragon_s_lair.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Dragon's Lair"
+        },
+        {
+            "deck": "This game, based on Star Wars Episode IV: A New Hope, features both platforming and shooting segments.",
+            "id": 54,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362258-nes_starwars.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362258-nes_starwars.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362258-nes_starwars.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362258-nes_starwars.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362258-nes_starwars.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362258-nes_starwars.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362258-nes_starwars.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362258-nes_starwars.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362258-nes_starwars.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Star Wars"
+        },
+        {
+            "deck": "Balloon Fight is an arcade-style platform action game for 1-2 players that is similar to Joust. Players take to the sky and try to pop their foes' balloons before their own get popped.",
+            "id": 86,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361146-nes_balloonfight.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361146-nes_balloonfight.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361146-nes_balloonfight.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2361146-nes_balloonfight.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2361146-nes_balloonfight.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2361146-nes_balloonfight.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361146-nes_balloonfight.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361146-nes_balloonfight.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2361146-nes_balloonfight.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Balloon Fight"
+        },
+        {
+            "deck": "The Immortal is an isometric adventure game which puts you in the shoes of an apprentice wizard who sets out to rescue his old mentor from a trap-filled dungeon.",
+            "id": 87,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2370641-genesis_immortal.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2370641-genesis_immortal.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2370641-genesis_immortal.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2370641-genesis_immortal.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2370641-genesis_immortal.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2370641-genesis_immortal.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2370641-genesis_immortal.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2370641-genesis_immortal.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2370641-genesis_immortal.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "The Immortal"
+        },
+        {
+            "deck": "A vertically-scrolling Arcade shoot 'em up that was later ported to the Nintendo Famicom with a few changes.",
+            "id": 91,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2292933-b_wings_flyer.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2292933-b_wings_flyer.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2292933-b_wings_flyer.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2292933-b_wings_flyer.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2292933-b_wings_flyer.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2292933-b_wings_flyer.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2292933-b_wings_flyer.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2292933-b_wings_flyer.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2292933-b_wings_flyer.jpg",
+                "image_tags": "All Images"
+            },
+            "name": "B-Wings"
+        },
+        {
+            "deck": "Flying Warriors is an action game which takes elements from the second and third Hiryu no Ken games.",
+            "id": 93,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361744-nes_flyingwarriors.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361744-nes_flyingwarriors.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361744-nes_flyingwarriors.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2361744-nes_flyingwarriors.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2361744-nes_flyingwarriors.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2361744-nes_flyingwarriors.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361744-nes_flyingwarriors.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361744-nes_flyingwarriors.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2361744-nes_flyingwarriors.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Flying Warriors"
+        },
+        {
+            "deck": "John Elway's Quarterback is a vertical-scrolling Football sim that features the former Denver Broncos quarterback's likeness. Originally released in Arcades, it was later ported to various home systems.",
+            "id": 98,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361911-nes_johnelwaysquarterback.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361911-nes_johnelwaysquarterback.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361911-nes_johnelwaysquarterback.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2361911-nes_johnelwaysquarterback.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2361911-nes_johnelwaysquarterback.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2361911-nes_johnelwaysquarterback.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361911-nes_johnelwaysquarterback.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361911-nes_johnelwaysquarterback.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2361911-nes_johnelwaysquarterback.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "John Elway's Quarterback"
+        },
+        {
+            "deck": "A bowling simulator for the Famicom. It allowed for up to five players and was the first bowling game for the system.",
+            "id": 106,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/1500173-dynamiteb_front.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/1500173-dynamiteb_front.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/1500173-dynamiteb_front.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/1500173-dynamiteb_front.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/1500173-dynamiteb_front.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/1500173-dynamiteb_front.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/1500173-dynamiteb_front.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/1500173-dynamiteb_front.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/1500173-dynamiteb_front.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Dynamite Bowl"
+        },
+        {
+            "deck": "Captain Planet and the Planeteers was a game based on the television show of the same name in the early nineties.",
+            "id": 150,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/456075-captain_planet_001.png",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/456075-captain_planet_001.png",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/456075-captain_planet_001.png",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/456075-captain_planet_001.png",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/456075-captain_planet_001.png",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/456075-captain_planet_001.png",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/456075-captain_planet_001.png",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/456075-captain_planet_001.png",
+                "original_url": "https://www.giantbomb.com/api/image/original/456075-captain_planet_001.png",
+                "image_tags": "All Images,NES Screenshots,Screenshots"
+            },
+            "name": "Captain Planet and the Planeteers"
+        },
+        {
+            "deck": null,
+            "id": 169,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/734477-24131_boxshot_1.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/734477-24131_boxshot_1.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/734477-24131_boxshot_1.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/734477-24131_boxshot_1.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/734477-24131_boxshot_1.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/734477-24131_boxshot_1.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/734477-24131_boxshot_1.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/734477-24131_boxshot_1.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/734477-24131_boxshot_1.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Infiltrator"
+        },
+        {
+            "deck": "CheetahMen II is an unreleased sequel to a minigame originally on Action 52 for the Nintendo Entertainment System and Sega Genesis. It is infamous for its mediocre gameplay and highly buggy programming state.",
+            "id": 244,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/833039-154_1.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/833039-154_1.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/833039-154_1.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/833039-154_1.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/833039-154_1.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/833039-154_1.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/833039-154_1.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/833039-154_1.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/833039-154_1.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "CheetahMen II"
+        },
+        {
+            "deck": "A NES platformer where you play as Fred Flintstone as his pets Dino and Hoppy are kidnapped by a collector from the future. A small alien comes back in time to help them, and Fred must find the parts of his time machine to save them.",
+            "id": 274,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361741-nes_flintstonestherescueofdinoandhoppy.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361741-nes_flintstonestherescueofdinoandhoppy.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361741-nes_flintstonestherescueofdinoandhoppy.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2361741-nes_flintstonestherescueofdinoandhoppy.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2361741-nes_flintstonestherescueofdinoandhoppy.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2361741-nes_flintstonestherescueofdinoandhoppy.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361741-nes_flintstonestherescueofdinoandhoppy.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361741-nes_flintstonestherescueofdinoandhoppy.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2361741-nes_flintstonestherescueofdinoandhoppy.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "The Flintstones: The Rescue of Dino & Hoppy"
+        },
+        {
+            "deck": "The Earth is now underwater and being attacked by the evil Neptunians! Save all the imprisoned humans with a tricked-out pink submarine.",
+            "id": 309,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/1039159-587640_39784_front.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/1039159-587640_39784_front.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/1039159-587640_39784_front.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/1039159-587640_39784_front.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/1039159-587640_39784_front.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/1039159-587640_39784_front.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/1039159-587640_39784_front.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/1039159-587640_39784_front.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/1039159-587640_39784_front.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Sqoon"
+        },
+        {
+            "deck": "Control Jumpman (later known as Mario) and save his girlfriend, Pauline, from the evil barrel-tossing gorilla known as Donkey Kong. Designed by Shigeru Miyamoto, this was the game that set the template for the platformer genre.",
+            "id": 311,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/1696148-dk.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/1696148-dk.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/1696148-dk.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/1696148-dk.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/1696148-dk.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/1696148-dk.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/1696148-dk.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/1696148-dk.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/1696148-dk.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Donkey Kong"
+        },
+        {
+            "deck": "A competitive multiplayer action game based on the TV game show American Gladiators. Players compete against the clock and each other to complete events and obstacle courses.",
+            "id": 346,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/832151-american_gladiators_coverart.png",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/832151-american_gladiators_coverart.png",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/832151-american_gladiators_coverart.png",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/832151-american_gladiators_coverart.png",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/832151-american_gladiators_coverart.png",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/832151-american_gladiators_coverart.png",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/832151-american_gladiators_coverart.png",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/832151-american_gladiators_coverart.png",
+                "original_url": "https://www.giantbomb.com/api/image/original/832151-american_gladiators_coverart.png",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "American Gladiators"
+        },
+        {
+            "deck": "A fantasy action game published for the NES in 1990.",
+            "id": 349,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/218795-king_neptunes_adventure.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/218795-king_neptunes_adventure.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/218795-king_neptunes_adventure.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/218795-king_neptunes_adventure.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/218795-king_neptunes_adventure.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/218795-king_neptunes_adventure.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/218795-king_neptunes_adventure.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/218795-king_neptunes_adventure.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/218795-king_neptunes_adventure.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "King Neptune's Adventure"
+        },
+        {
+            "deck": "A fantasy-themed Japanese side-scrolling platformer for the NES, developed by Carry Lab (or Carry Soft) and published in the US by Taxan.",
+            "id": 362,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/221775-mystery_quest.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/221775-mystery_quest.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/221775-mystery_quest.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/221775-mystery_quest.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/221775-mystery_quest.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/221775-mystery_quest.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/221775-mystery_quest.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/221775-mystery_quest.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/221775-mystery_quest.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Mystery Quest"
+        },
+        {
+            "deck": "All-Pro Basketball is a basketball game for the NES.",
+            "id": 493,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2091858-apb.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2091858-apb.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2091858-apb.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2091858-apb.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2091858-apb.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2091858-apb.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2091858-apb.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2091858-apb.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2091858-apb.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "All-Pro Basketball"
+        },
+        {
+            "deck": "Platoon is the video game based off of Oliver Stone's \"Platoon\".",
+            "id": 504,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362120-nes_platoon.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362120-nes_platoon.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362120-nes_platoon.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362120-nes_platoon.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362120-nes_platoon.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362120-nes_platoon.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362120-nes_platoon.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362120-nes_platoon.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362120-nes_platoon.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Platoon"
+        },
+        {
+            "deck": "An action platformer game that sees a ninja take on a group of kidnappers.",
+            "id": 563,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362619-nes_wrathoftheblackmanta.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362619-nes_wrathoftheblackmanta.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362619-nes_wrathoftheblackmanta.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362619-nes_wrathoftheblackmanta.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362619-nes_wrathoftheblackmanta.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362619-nes_wrathoftheblackmanta.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362619-nes_wrathoftheblackmanta.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362619-nes_wrathoftheblackmanta.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362619-nes_wrathoftheblackmanta.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Wrath of the Black Manta"
+        },
+        {
+            "deck": "Following the invasion of Earth by fish-like aliens, you must assume the role of a S.C.A.T. soldier and halt the onslaught!",
+            "id": 566,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/1150375-scat1.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/1150375-scat1.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/1150375-scat1.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/1150375-scat1.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/1150375-scat1.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/1150375-scat1.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/1150375-scat1.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/1150375-scat1.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/1150375-scat1.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "S.C.A.T.: Special Cybernetic Attack Team"
+        },
+        {
+            "deck": "A vertical shoot 'em up and an update to the original game that contains new enemies.",
+            "id": 597,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/968474-sjp.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/968474-sjp.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/968474-sjp.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/968474-sjp.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/968474-sjp.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/968474-sjp.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/968474-sjp.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/968474-sjp.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/968474-sjp.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Super Xevious"
+        },
+        {
+            "deck": "One of the first console baseball games to include real MLB players. The players were super deformed and had no likeness to the real players other than their stats and their names.",
+            "id": 611,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/234475-r.b.i_baseball_1.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/234475-r.b.i_baseball_1.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/234475-r.b.i_baseball_1.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/234475-r.b.i_baseball_1.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/234475-r.b.i_baseball_1.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/234475-r.b.i_baseball_1.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/234475-r.b.i_baseball_1.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/234475-r.b.i_baseball_1.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/234475-r.b.i_baseball_1.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "R.B.I. Baseball"
+        },
+        {
+            "deck": "Lode Runner is a 2D platform/Puzzle game from 1983 created by Douglas Smith. It is one of the first games to include a level editor tool for players to create their own levels.",
+            "id": 636,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361995-nes_loderunner.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361995-nes_loderunner.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361995-nes_loderunner.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2361995-nes_loderunner.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2361995-nes_loderunner.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2361995-nes_loderunner.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361995-nes_loderunner.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361995-nes_loderunner.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2361995-nes_loderunner.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Lode Runner"
+        },
+        {
+            "deck": "This 1986 sequel added more enemies with better AI, new treasures, harder levels, and the ability for each player to choose the character they wanted.",
+            "id": 648,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2616745-2197635993-21966.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2616745-2197635993-21966.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2616745-2197635993-21966.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2616745-2197635993-21966.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2616745-2197635993-21966.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2616745-2197635993-21966.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2616745-2197635993-21966.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2616745-2197635993-21966.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2616745-2197635993-21966.jpg",
+                "image_tags": "All Images"
+            },
+            "name": "Gauntlet II"
+        },
+        {
+            "deck": "Summer Carnival '92 - Recca was only released in Japan, on July 17th 1992. The game is famous for its incredible speed, unique soundtrack, and relentless difficulty. It later was released worldwide on the 3DS eShop.",
+            "id": 735,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/527785-recca.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/527785-recca.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/527785-recca.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/527785-recca.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/527785-recca.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/527785-recca.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/527785-recca.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/527785-recca.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/527785-recca.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Summer Carnival '92: Recca"
+        },
+        {
+            "deck": "An early action-strategy-RPG game created by Koji Sumii and published by ASCII for the Sharp X1 computer in 1983. The game is considered a precursor to several genres: the action RPG, tactical RPG, real-time strategy, and tower defense.",
+            "id": 753,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2284769-250px_bokosuka_wars_pc98_box.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2284769-250px_bokosuka_wars_pc98_box.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2284769-250px_bokosuka_wars_pc98_box.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2284769-250px_bokosuka_wars_pc98_box.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2284769-250px_bokosuka_wars_pc98_box.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2284769-250px_bokosuka_wars_pc98_box.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2284769-250px_bokosuka_wars_pc98_box.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2284769-250px_bokosuka_wars_pc98_box.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2284769-250px_bokosuka_wars_pc98_box.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Bokosuka Wars"
+        },
+        {
+            "deck": "The sequel to Impossible Mission",
+            "id": 764,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/734056-impossible_mission_2_sei.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/734056-impossible_mission_2_sei.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/734056-impossible_mission_2_sei.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/734056-impossible_mission_2_sei.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/734056-impossible_mission_2_sei.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/734056-impossible_mission_2_sei.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/734056-impossible_mission_2_sei.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/734056-impossible_mission_2_sei.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/734056-impossible_mission_2_sei.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Impossible Mission-II"
+        },
+        {
+            "deck": "WCW: World Championship Wrestling is a wrestling game released for the NES in 1990. It is a WCW re-skin of the developers 1989 title Super Star Pro Wrestling.",
+            "id": 775,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362617-nes_wcwwrestling.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362617-nes_wcwwrestling.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362617-nes_wcwwrestling.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362617-nes_wcwwrestling.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362617-nes_wcwwrestling.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362617-nes_wcwwrestling.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362617-nes_wcwwrestling.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362617-nes_wcwwrestling.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362617-nes_wcwwrestling.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "WCW: World Championship Wrestling"
+        },
+        {
+            "deck": "King Drake of Phoebus has declared all magic illegal, slaying or exiling those who resist. In retaliation, the neighboring island nations threaten to unleash their dragons as the world teeters on the edge of war. Wrongly imprisoned, you and your friends must somehow escape in order to seek your revenge.",
+            "id": 780,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/613890-dos_front.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/613890-dos_front.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/613890-dos_front.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/613890-dos_front.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/613890-dos_front.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/613890-dos_front.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/613890-dos_front.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/613890-dos_front.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/613890-dos_front.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Dragon Wars"
+        },
+        {
+            "deck": "Featuring various improvements to the system introduced in the first Bard's Tale, the Destiny Knight takes a party of adventurers across six cities in an effort to recover the shattered pieces of the Destiny Wand and confront the Archmage responsible for the chaos, Lagoth Zanta.",
+            "id": 794,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/608423-564325_29433_front_1_.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/608423-564325_29433_front_1_.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/608423-564325_29433_front_1_.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/608423-564325_29433_front_1_.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/608423-564325_29433_front_1_.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/608423-564325_29433_front_1_.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/608423-564325_29433_front_1_.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/608423-564325_29433_front_1_.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/608423-564325_29433_front_1_.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "The Bard's Tale II: The Destiny Knight"
+        },
+        {
+            "deck": "A side-scrolling shoot 'em up that is a Gradius parody - hence, \"Parodius\".",
+            "id": 810,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362112-nes_parodius_eu.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362112-nes_parodius_eu.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362112-nes_parodius_eu.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362112-nes_parodius_eu.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362112-nes_parodius_eu.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362112-nes_parodius_eu.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362112-nes_parodius_eu.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362112-nes_parodius_eu.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362112-nes_parodius_eu.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Parodius"
+        },
+        {
+            "deck": "Released in 1993 for the Family Computer.",
+            "id": 829,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2345907-wily___right_no_rockboard_that_s_paradise.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2345907-wily___right_no_rockboard_that_s_paradise.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2345907-wily___right_no_rockboard_that_s_paradise.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2345907-wily___right_no_rockboard_that_s_paradise.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2345907-wily___right_no_rockboard_that_s_paradise.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2345907-wily___right_no_rockboard_that_s_paradise.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2345907-wily___right_no_rockboard_that_s_paradise.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2345907-wily___right_no_rockboard_that_s_paradise.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2345907-wily___right_no_rockboard_that_s_paradise.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Wily & Right no RockBoard: That's Paradise"
+        },
+        {
+            "deck": "Contra Force is the third game in the Contra franchise, but has nearly no ties to the main franchise, and is often considered a spin-off.",
+            "id": 845,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361241-nes_contraforce.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361241-nes_contraforce.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361241-nes_contraforce.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2361241-nes_contraforce.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2361241-nes_contraforce.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2361241-nes_contraforce.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361241-nes_contraforce.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361241-nes_contraforce.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2361241-nes_contraforce.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Contra Force"
+        },
+        {
+            "deck": "Originally released in 1987, Pac-Mania featured a unique take on the Pac-Man formula.",
+            "id": 861,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2371328-genesis_pacmania.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2371328-genesis_pacmania.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2371328-genesis_pacmania.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2371328-genesis_pacmania.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2371328-genesis_pacmania.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2371328-genesis_pacmania.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2371328-genesis_pacmania.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2371328-genesis_pacmania.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2371328-genesis_pacmania.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Pac-Mania"
+        },
+        {
+            "deck": "First person space combat for the NES.",
+            "id": 867,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/237796-star_voyager.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/237796-star_voyager.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/237796-star_voyager.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/237796-star_voyager.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/237796-star_voyager.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/237796-star_voyager.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/237796-star_voyager.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/237796-star_voyager.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/237796-star_voyager.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Star Voyager"
+        },
+        {
+            "deck": "A side-scrolling action/shooter based on the 1987 Schwarzenegger movie Predator. It was published by Activision for many home computers, though its NES incarnation plays slightly differently.",
+            "id": 873,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362129-nes_predator.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362129-nes_predator.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362129-nes_predator.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362129-nes_predator.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362129-nes_predator.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362129-nes_predator.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362129-nes_predator.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362129-nes_predator.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362129-nes_predator.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Predator"
+        },
+        {
+            "deck": "A turn-based strategy game for the NES in which the player takes on the role of Japanese warlord Shingen Takeda during the 16th Century.",
+            "id": 881,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362194-nes_shingentheruler_2.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362194-nes_shingentheruler_2.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362194-nes_shingentheruler_2.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362194-nes_shingentheruler_2.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362194-nes_shingentheruler_2.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362194-nes_shingentheruler_2.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362194-nes_shingentheruler_2.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362194-nes_shingentheruler_2.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362194-nes_shingentheruler_2.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Shingen the Ruler"
+        },
+        {
+            "deck": "Magician is a side-scrolling RPG.",
+            "id": 901,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362027-nes_magician.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362027-nes_magician.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362027-nes_magician.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362027-nes_magician.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362027-nes_magician.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362027-nes_magician.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362027-nes_magician.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362027-nes_magician.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362027-nes_magician.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Magician"
+        },
+        {
+            "deck": "A fast-paced puzzle-platformer that debuted in arcades, and later moved to home gaming systems; including the Commodore 64, NES, and Nintendo's Virtual Console.",
+            "id": 928,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362245-nes_solomonskey.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362245-nes_solomonskey.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362245-nes_solomonskey.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362245-nes_solomonskey.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362245-nes_solomonskey.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362245-nes_solomonskey.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362245-nes_solomonskey.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362245-nes_solomonskey.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362245-nes_solomonskey.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Solomon's Key"
+        },
+        {
+            "deck": "A turn-based strategy game originally released in 1987 by Koei, the creators of Nobunaga's Ambition and Romance of the Three Kingdoms.",
+            "id": 942,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361752-nes_genghiskhan.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361752-nes_genghiskhan.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361752-nes_genghiskhan.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2361752-nes_genghiskhan.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2361752-nes_genghiskhan.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2361752-nes_genghiskhan.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361752-nes_genghiskhan.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361752-nes_genghiskhan.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2361752-nes_genghiskhan.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Genghis Khan"
+        },
+        {
+            "deck": "One of several video game adaptations of the popular Merv Griffin quiz show Jeopardy!, where contestants are given answers and must determine the questions that lead to them. This particular game was the first of the Rare-developed Jeopardy! games for NES.",
+            "id": 988,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361891-nes_jeopardy.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361891-nes_jeopardy.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361891-nes_jeopardy.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2361891-nes_jeopardy.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2361891-nes_jeopardy.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2361891-nes_jeopardy.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361891-nes_jeopardy.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361891-nes_jeopardy.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2361891-nes_jeopardy.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Jeopardy!"
+        },
+        {
+            "deck": "A shooting game developed by Hudson.",
+            "id": 1009,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362256-nes_starsoldier.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362256-nes_starsoldier.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362256-nes_starsoldier.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362256-nes_starsoldier.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362256-nes_starsoldier.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362256-nes_starsoldier.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362256-nes_starsoldier.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362256-nes_starsoldier.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362256-nes_starsoldier.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Star Soldier"
+        },
+        {
+            "deck": "A video game adaptation of the 1987 movie regarding Eliot Ness, notorious gangster Al Capone and the Prohibition era. The SNES version is based on the 1993 TV series instead.",
+            "id": 1015,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362342-nes_untouchables.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362342-nes_untouchables.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362342-nes_untouchables.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362342-nes_untouchables.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362342-nes_untouchables.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362342-nes_untouchables.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362342-nes_untouchables.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362342-nes_untouchables.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362342-nes_untouchables.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "The Untouchables"
+        },
+        {
+            "deck": "One of the progenitors of Japanese RPGs, The Black Onyx brings the world of high-fantasy RPGs to Japanese computers as five brave adventurers set out through a deep underground labyrinth to find the legendary Black Onyx and break a curse set upon on the fantasy town of Utsuro.",
+            "id": 1032,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2981966-box_tbo.png",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2981966-box_tbo.png",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2981966-box_tbo.png",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2981966-box_tbo.png",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2981966-box_tbo.png",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2981966-box_tbo.png",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2981966-box_tbo.png",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2981966-box_tbo.png",
+                "original_url": "https://www.giantbomb.com/api/image/original/2981966-box_tbo.png",
+                "image_tags": "All Images"
+            },
+            "name": "The Black Onyx"
+        },
+        {
+            "deck": "In Godzilla 2 you are charged with defending objectives from Godzilla and the other monsters of Toho movie fame. Take control of the military and hope not to get stepped on or try your luck at killing the giant monsters.",
+            "id": 1068,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/1707503-tumblr_lgch8ofuzo1qzurbto1_500.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/1707503-tumblr_lgch8ofuzo1qzurbto1_500.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/1707503-tumblr_lgch8ofuzo1qzurbto1_500.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/1707503-tumblr_lgch8ofuzo1qzurbto1_500.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/1707503-tumblr_lgch8ofuzo1qzurbto1_500.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/1707503-tumblr_lgch8ofuzo1qzurbto1_500.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/1707503-tumblr_lgch8ofuzo1qzurbto1_500.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/1707503-tumblr_lgch8ofuzo1qzurbto1_500.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/1707503-tumblr_lgch8ofuzo1qzurbto1_500.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Godzilla 2: War of the Monsters"
+        },
+        {
+            "deck": "Classic NES platformer in which the game continuously scrolls to the right. Players must use the NES Zapper accessory to make the character (Gumshoe) avoid obstacles and reach platforms. The Zapper can also be used to shoot enemies in the path. Gumshoe was published and developed by Nintendo.",
+            "id": 1113,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361788-nes_gumshoe.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361788-nes_gumshoe.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361788-nes_gumshoe.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2361788-nes_gumshoe.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2361788-nes_gumshoe.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2361788-nes_gumshoe.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361788-nes_gumshoe.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361788-nes_gumshoe.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2361788-nes_gumshoe.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Gumshoe"
+        },
+        {
+            "deck": "The 8-Bit adaptation of Final Fight featuring super-deformed style characters.",
+            "id": 1115,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362068-nes_mightyfinalfight.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362068-nes_mightyfinalfight.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362068-nes_mightyfinalfight.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362068-nes_mightyfinalfight.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362068-nes_mightyfinalfight.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362068-nes_mightyfinalfight.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362068-nes_mightyfinalfight.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362068-nes_mightyfinalfight.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362068-nes_mightyfinalfight.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Mighty Final Fight"
+        },
+        {
+            "deck": "Mig-29 Soviet Fighter is a jet fighting game released on the NES and many early computer systems.",
+            "id": 1136,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/220708-mig_29.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/220708-mig_29.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/220708-mig_29.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/220708-mig_29.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/220708-mig_29.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/220708-mig_29.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/220708-mig_29.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/220708-mig_29.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/220708-mig_29.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Mig-29 Soviet Fighter"
+        },
+        {
+            "deck": "Phantom Fighter is an action game for the NES, the object of the game is to defeat the numerous Kyonshi (Chinese vampires) and bosses at the end of each of the eight levels.",
+            "id": 1191,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/233604-phantom_fighter.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/233604-phantom_fighter.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/233604-phantom_fighter.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/233604-phantom_fighter.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/233604-phantom_fighter.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/233604-phantom_fighter.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/233604-phantom_fighter.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/233604-phantom_fighter.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/233604-phantom_fighter.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Phantom Fighter"
+        },
+        {
+            "deck": "A compilation of four Codemasters sports titles for the Amiga, ZX Spectrum, and NES.",
+            "id": 1192,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/942094-quattro_sports.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/942094-quattro_sports.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/942094-quattro_sports.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/942094-quattro_sports.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/942094-quattro_sports.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/942094-quattro_sports.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/942094-quattro_sports.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/942094-quattro_sports.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/942094-quattro_sports.jpg",
+                "image_tags": "All Images"
+            },
+            "name": "Quattro Sports"
+        },
+        {
+            "deck": "Deep Dungeon IV: Kuro no Youjutsushi is a Japanese only role-playing game for the Nintendo Famicom.",
+            "id": 1216,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/545069-deep_dungeon_iv_kuro_no_youjutsushi_box.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/545069-deep_dungeon_iv_kuro_no_youjutsushi_box.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/545069-deep_dungeon_iv_kuro_no_youjutsushi_box.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/545069-deep_dungeon_iv_kuro_no_youjutsushi_box.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/545069-deep_dungeon_iv_kuro_no_youjutsushi_box.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/545069-deep_dungeon_iv_kuro_no_youjutsushi_box.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/545069-deep_dungeon_iv_kuro_no_youjutsushi_box.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/545069-deep_dungeon_iv_kuro_no_youjutsushi_box.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/545069-deep_dungeon_iv_kuro_no_youjutsushi_box.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Deep Dungeon IV: Kuro no Youjutsushi"
+        },
+        {
+            "deck": "A side-scrolling action game set in a dangerous future.",
+            "id": 1220,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361917-nes_kabukiquantumfighter.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361917-nes_kabukiquantumfighter.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361917-nes_kabukiquantumfighter.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2361917-nes_kabukiquantumfighter.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2361917-nes_kabukiquantumfighter.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2361917-nes_kabukiquantumfighter.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361917-nes_kabukiquantumfighter.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361917-nes_kabukiquantumfighter.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2361917-nes_kabukiquantumfighter.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Kabuki: Quantum Fighter"
+        },
+        {
+            "deck": "Mega Man's former ally, Proto Man, creates an army of destructive robots and kidnaps Dr. Light, and it's up to Mega Man to stop him in this fifth installment of the Mega Man series.",
+            "id": 1223,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362055-nes_megaman5.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362055-nes_megaman5.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362055-nes_megaman5.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362055-nes_megaman5.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362055-nes_megaman5.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362055-nes_megaman5.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362055-nes_megaman5.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362055-nes_megaman5.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362055-nes_megaman5.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Mega Man 5"
+        },
+        {
+            "deck": "Control Jason Frudnick in his sweet battle-tank as he blasts his way through eight levels of dudes!",
+            "id": 1257,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361178-nes_blastermaster.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361178-nes_blastermaster.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361178-nes_blastermaster.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2361178-nes_blastermaster.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2361178-nes_blastermaster.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2361178-nes_blastermaster.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361178-nes_blastermaster.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361178-nes_blastermaster.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2361178-nes_blastermaster.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Blaster Master"
+        },
+        {
+            "deck": null,
+            "id": 1269,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/212273-cowboy_kid.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/212273-cowboy_kid.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/212273-cowboy_kid.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/212273-cowboy_kid.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/212273-cowboy_kid.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/212273-cowboy_kid.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/212273-cowboy_kid.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/212273-cowboy_kid.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/212273-cowboy_kid.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Cowboy Kid"
+        },
+        {
+            "deck": "A vertical-scrolling shoot-em-up from Nihon Bussan, created originally for the Arcades and later ported to various home systems. It features a power-up system that causes the player's ship to change its appearance.",
+            "id": 1272,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/1498500-terracusa_front.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/1498500-terracusa_front.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/1498500-terracusa_front.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/1498500-terracusa_front.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/1498500-terracusa_front.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/1498500-terracusa_front.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/1498500-terracusa_front.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/1498500-terracusa_front.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/1498500-terracusa_front.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Terra Cresta"
+        },
+        {
+            "deck": "Play as Luke Skywalker as you fight your way through the Battle of Hoth, travel through the swamps of Dagobah, and explore Cloud City",
+            "id": 1314,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362259-nes_starwarstheempirestrikesback.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362259-nes_starwarstheempirestrikesback.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362259-nes_starwarstheempirestrikesback.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362259-nes_starwarstheempirestrikesback.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362259-nes_starwarstheempirestrikesback.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362259-nes_starwarstheempirestrikesback.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362259-nes_starwarstheempirestrikesback.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362259-nes_starwarstheempirestrikesback.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362259-nes_starwarstheempirestrikesback.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Star Wars: The Empire Strikes Back"
+        },
+        {
+            "deck": "R.C Pro-Am II is an isometric track racer with power ups for the NES. It boasts a variety of themed tracks aswell as vehicles.",
+            "id": 1316,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362149-nes_rcproam2_4.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362149-nes_rcproam2_4.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362149-nes_rcproam2_4.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362149-nes_rcproam2_4.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362149-nes_rcproam2_4.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362149-nes_rcproam2_4.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362149-nes_rcproam2_4.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362149-nes_rcproam2_4.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362149-nes_rcproam2_4.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "R.C. Pro-Am II"
+        },
+        {
+            "deck": "New Ghostbusters II was a game for the NES and Game Boy developed by Hal that was only released in Europe.",
+            "id": 1338,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/492769-577986_35372_front.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/492769-577986_35372_front.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/492769-577986_35372_front.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/492769-577986_35372_front.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/492769-577986_35372_front.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/492769-577986_35372_front.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/492769-577986_35372_front.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/492769-577986_35372_front.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/492769-577986_35372_front.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "New Ghostbusters II"
+        },
+        {
+            "deck": "RoboWarrior (Bomber King in Japan) is a side-scrolling action game for the NES, developed by Hudson and later published in the US by Jaleco. It is a sequel to Hudson's earlier hit Bomberman.",
+            "id": 1352,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362159-nes_robowarrior.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362159-nes_robowarrior.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362159-nes_robowarrior.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362159-nes_robowarrior.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362159-nes_robowarrior.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362159-nes_robowarrior.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362159-nes_robowarrior.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362159-nes_robowarrior.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362159-nes_robowarrior.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "RoboWarrior"
+        },
+        {
+            "deck": "An isometric combat racing game that was developed by Rare in 1988.",
+            "id": 1374,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/783217-587546_46971_front.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/783217-587546_46971_front.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/783217-587546_46971_front.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/783217-587546_46971_front.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/783217-587546_46971_front.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/783217-587546_46971_front.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/783217-587546_46971_front.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/783217-587546_46971_front.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/783217-587546_46971_front.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "R.C. Pro-Am"
+        },
+        {
+            "deck": "A pirate simulator created by the renowned game designer Sid Meier. Contains looting, swordsmanship and all around swashbuckling. The game was remade in 1993 for the PC; it was also reimagined in 2004 for the PC and Xbox.",
+            "id": 1415,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/749906-pirates.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/749906-pirates.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/749906-pirates.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/749906-pirates.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/749906-pirates.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/749906-pirates.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/749906-pirates.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/749906-pirates.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/749906-pirates.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Sid Meier's Pirates!"
+        },
+        {
+            "deck": "A shoot 'em up where the player controls Captain Commando as he infiltrates an enemy space fortress, blasting his way from Section-A straight through to the titular Section-Z.",
+            "id": 1432,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362190-nes_sectionz_2.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362190-nes_sectionz_2.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362190-nes_sectionz_2.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362190-nes_sectionz_2.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362190-nes_sectionz_2.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362190-nes_sectionz_2.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362190-nes_sectionz_2.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362190-nes_sectionz_2.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362190-nes_sectionz_2.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Section-Z"
+        },
+        {
+            "deck": "Guide hordes of helpless green-haired rodents away from peril in this landmark puzzle game.",
+            "id": 1446,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/568577-lemmings.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/568577-lemmings.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/568577-lemmings.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/568577-lemmings.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/568577-lemmings.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/568577-lemmings.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/568577-lemmings.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/568577-lemmings.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/568577-lemmings.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Lemmings"
+        },
+        {
+            "deck": "An arcade-style action game released for the MSX computer in 1984 and later ported to the Nintendo Famicom console titled as Astro Robo SASA (アストロロボSASA) in 1985. The protagonist uses a gun's recoil to fly around stage, collecting additional energy containers.",
+            "id": 1486,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2413258-astro_robo_sasa.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2413258-astro_robo_sasa.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2413258-astro_robo_sasa.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2413258-astro_robo_sasa.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2413258-astro_robo_sasa.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2413258-astro_robo_sasa.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2413258-astro_robo_sasa.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2413258-astro_robo_sasa.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2413258-astro_robo_sasa.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Astro Robo Sasa"
+        },
+        {
+            "deck": "Xevious is one of the first vertical scrolling shoot-em-up arcade games.",
+            "id": 1487,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/1331123-xevious_box.png",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/1331123-xevious_box.png",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/1331123-xevious_box.png",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/1331123-xevious_box.png",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/1331123-xevious_box.png",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/1331123-xevious_box.png",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/1331123-xevious_box.png",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/1331123-xevious_box.png",
+                "original_url": "https://www.giantbomb.com/api/image/original/1331123-xevious_box.png",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Xevious"
+        },
+        {
+            "deck": "A scrolling platformer for the Nintendo Entertainment System developed by Hudson Soft, the game was an adaptation of the Westone/Sega arcade game Wonder Boy featuring an employee of Hudson wearing a grass skirt.",
+            "id": 1502,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361114-nes_adventureisland.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361114-nes_adventureisland.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361114-nes_adventureisland.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2361114-nes_adventureisland.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2361114-nes_adventureisland.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2361114-nes_adventureisland.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361114-nes_adventureisland.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361114-nes_adventureisland.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2361114-nes_adventureisland.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Adventure Island"
+        },
+        {
+            "deck": "This Acclaim published NES game was the first Square game to reach North America. The game was developed by both Hironobu Sakaguchi and Nobuo Uematsu.",
+            "id": 1532,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361102-nes_3dworldrunner.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361102-nes_3dworldrunner.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361102-nes_3dworldrunner.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2361102-nes_3dworldrunner.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2361102-nes_3dworldrunner.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2361102-nes_3dworldrunner.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361102-nes_3dworldrunner.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361102-nes_3dworldrunner.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2361102-nes_3dworldrunner.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "3-D WorldRunner"
+        },
+        {
+            "deck": "A basketball game by Konami, originally for the Arcade and ported to home consoles. It is part of Konami's \"Exciting\" sports series.",
+            "id": 1533,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361677-nes_doubledribble.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361677-nes_doubledribble.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361677-nes_doubledribble.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2361677-nes_doubledribble.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2361677-nes_doubledribble.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2361677-nes_doubledribble.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361677-nes_doubledribble.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361677-nes_doubledribble.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2361677-nes_doubledribble.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Double Dribble"
+        },
+        {
+            "deck": "Caesars Palace brings the excitement of Las Vegas home.",
+            "id": 1542,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/210730-caesars_palace.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/210730-caesars_palace.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/210730-caesars_palace.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/210730-caesars_palace.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/210730-caesars_palace.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/210730-caesars_palace.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/210730-caesars_palace.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/210730-caesars_palace.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/210730-caesars_palace.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Caesars Palace"
+        },
+        {
+            "deck": "A top-down shooter where one or two bandana-wearing commandos fight enemy forces in a jungle. It is notable for allowing the player to pilot various vehicles including a tank and a helicopter.",
+            "id": 1619,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361849-nes_ikariwarriors.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361849-nes_ikariwarriors.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361849-nes_ikariwarriors.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2361849-nes_ikariwarriors.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2361849-nes_ikariwarriors.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2361849-nes_ikariwarriors.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361849-nes_ikariwarriors.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361849-nes_ikariwarriors.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2361849-nes_ikariwarriors.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Ikari Warriors"
+        },
+        {
+            "deck": "NES game from Konami based on the 1980's TV Series. It used the same game engine as Metal Gear.",
+            "id": 1622,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2411184-2362072_nes_missionimpossible.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2411184-2362072_nes_missionimpossible.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2411184-2362072_nes_missionimpossible.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2411184-2362072_nes_missionimpossible.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2411184-2362072_nes_missionimpossible.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2411184-2362072_nes_missionimpossible.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2411184-2362072_nes_missionimpossible.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2411184-2362072_nes_missionimpossible.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2411184-2362072_nes_missionimpossible.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Mission: Impossible"
+        },
+        {
+            "deck": "Destiny of an Emperor is a strategy role-playing game based roughly on the manga Tenchi o Kurau (\"The Devouring of Heaven and Earth\") which is set in the Three Kingdoms period, when Western Shu, Northern Wei and Eastern Wu battled to conquer all of China.",
+            "id": 1624,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361658-nes_destinyofanemperor.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361658-nes_destinyofanemperor.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361658-nes_destinyofanemperor.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2361658-nes_destinyofanemperor.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2361658-nes_destinyofanemperor.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2361658-nes_destinyofanemperor.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361658-nes_destinyofanemperor.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361658-nes_destinyofanemperor.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2361658-nes_destinyofanemperor.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Destiny of an Emperor"
+        },
+        {
+            "deck": "The first in a series of adventure-RPG adaptations of the world of the manga and anime Dragon Ball. It takes place during the \"King Piccolo Saga\" arc of the series and features a unique card-based system for both exploration and combat.",
+            "id": 1646,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/558370-dragon_ball_daimaou_fukkatsu_box_front.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/558370-dragon_ball_daimaou_fukkatsu_box_front.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/558370-dragon_ball_daimaou_fukkatsu_box_front.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/558370-dragon_ball_daimaou_fukkatsu_box_front.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/558370-dragon_ball_daimaou_fukkatsu_box_front.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/558370-dragon_ball_daimaou_fukkatsu_box_front.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/558370-dragon_ball_daimaou_fukkatsu_box_front.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/558370-dragon_ball_daimaou_fukkatsu_box_front.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/558370-dragon_ball_daimaou_fukkatsu_box_front.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Dragon Ball: Daimaou Fukkatsu"
+        },
+        {
+            "deck": "Step into the shoes of the ninja Ryu Hayabusa as he goes on a quest to avenge his father's unexpected death.",
+            "id": 1653,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2344291-ninja.png",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2344291-ninja.png",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2344291-ninja.png",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2344291-ninja.png",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2344291-ninja.png",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2344291-ninja.png",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2344291-ninja.png",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2344291-ninja.png",
+                "original_url": "https://www.giantbomb.com/api/image/original/2344291-ninja.png",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Ninja Gaiden"
+        },
+        {
+            "deck": "Shanghai is a virtual simulation of the classic puzzle game also known as Mahjong Solitaire.",
+            "id": 1655,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/1459602-shanghai_lynxboxart_160w.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/1459602-shanghai_lynxboxart_160w.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/1459602-shanghai_lynxboxart_160w.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/1459602-shanghai_lynxboxart_160w.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/1459602-shanghai_lynxboxart_160w.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/1459602-shanghai_lynxboxart_160w.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/1459602-shanghai_lynxboxart_160w.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/1459602-shanghai_lynxboxart_160w.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/1459602-shanghai_lynxboxart_160w.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Shanghai"
+        },
+        {
+            "deck": "An arcade basketball game endorsed by Earvin \"Magic\" Johnson Jr.",
+            "id": 1725,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/220042-magic_johnson_s_fast_break.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/220042-magic_johnson_s_fast_break.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/220042-magic_johnson_s_fast_break.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/220042-magic_johnson_s_fast_break.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/220042-magic_johnson_s_fast_break.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/220042-magic_johnson_s_fast_break.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/220042-magic_johnson_s_fast_break.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/220042-magic_johnson_s_fast_break.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/220042-magic_johnson_s_fast_break.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Magic Johnson's Fast Break"
+        },
+        {
+            "deck": "An 8-bit RPG on the NES developed by Game Arts and published by Nexoft. The player controls a female warrior out on a quest.",
+            "id": 1754,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361718-nes_faria.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361718-nes_faria.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361718-nes_faria.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2361718-nes_faria.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2361718-nes_faria.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2361718-nes_faria.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361718-nes_faria.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361718-nes_faria.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2361718-nes_faria.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Faria: A World of Mystery and Danger!"
+        },
+        {
+            "deck": "Play as either Hayate or Kaede in this fast-paced action platformer. This game is known as \"Blue Shadow\" in Europe.",
+            "id": 1768,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362191-nes_shadowoftheninja.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362191-nes_shadowoftheninja.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362191-nes_shadowoftheninja.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362191-nes_shadowoftheninja.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362191-nes_shadowoftheninja.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362191-nes_shadowoftheninja.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362191-nes_shadowoftheninja.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362191-nes_shadowoftheninja.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362191-nes_shadowoftheninja.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Shadow of the Ninja"
+        },
+        {
+            "deck": "A horizontal shoot 'em up based on the hit Disney cartoon featuring characters inspired by The Jungle Book. Part of Capcom's series of Disney licensed games from the late 80s and early 90s.",
+            "id": 1777,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362290-nes_talespin.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362290-nes_talespin.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362290-nes_talespin.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362290-nes_talespin.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362290-nes_talespin.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362290-nes_talespin.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362290-nes_talespin.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362290-nes_talespin.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362290-nes_talespin.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Disney's TaleSpin"
+        },
+        {
+            "deck": "Play pinball alone or in a double-ended competitive format in Rock 'n' Ball.",
+            "id": 1790,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2366251-rock_n_ball_copy.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2366251-rock_n_ball_copy.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2366251-rock_n_ball_copy.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2366251-rock_n_ball_copy.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2366251-rock_n_ball_copy.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2366251-rock_n_ball_copy.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2366251-rock_n_ball_copy.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2366251-rock_n_ball_copy.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2366251-rock_n_ball_copy.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Rock 'n Ball"
+        },
+        {
+            "deck": "A horror action platformer game based on the movie of the same name, released on a multitude of platforms from 1993 on, developed by Psygnosis, Traveller's Tales, and Probe Entertainment and published by Sony Imagesoft and Psygnosis.",
+            "id": 1792,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361185-nes_dracula_eu.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361185-nes_dracula_eu.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361185-nes_dracula_eu.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2361185-nes_dracula_eu.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2361185-nes_dracula_eu.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2361185-nes_dracula_eu.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361185-nes_dracula_eu.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361185-nes_dracula_eu.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2361185-nes_dracula_eu.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Bram Stoker's Dracula"
+        },
+        {
+            "deck": "A sliding puzzle game for the NES.",
+            "id": 1801,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/1501248-puzzle_front.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/1501248-puzzle_front.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/1501248-puzzle_front.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/1501248-puzzle_front.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/1501248-puzzle_front.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/1501248-puzzle_front.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/1501248-puzzle_front.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/1501248-puzzle_front.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/1501248-puzzle_front.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Puzzle"
+        },
+        {
+            "deck": "Collect pollen and attack other insects to protect your honey in this whimsical Codemasters game.",
+            "id": 1813,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/832985-96_1.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/832985-96_1.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/832985-96_1.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/832985-96_1.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/832985-96_1.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/832985-96_1.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/832985-96_1.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/832985-96_1.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/832985-96_1.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Bee 52"
+        },
+        {
+            "deck": "An open world RPG with three character classes, and no password or save system for your progress.",
+            "id": 1814,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362615-nes_wizardsandwarriors3.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362615-nes_wizardsandwarriors3.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362615-nes_wizardsandwarriors3.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362615-nes_wizardsandwarriors3.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362615-nes_wizardsandwarriors3.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362615-nes_wizardsandwarriors3.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362615-nes_wizardsandwarriors3.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362615-nes_wizardsandwarriors3.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362615-nes_wizardsandwarriors3.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Wizards & Warriors III: Kuros: Visions of Power"
+        },
+        {
+            "deck": "This game is considered a sequel to the original arcade TMNT and was only released for the NES.",
+            "id": 1831,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362301-nes_tmntiiithemanhattanproject.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362301-nes_tmntiiithemanhattanproject.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362301-nes_tmntiiithemanhattanproject.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362301-nes_tmntiiithemanhattanproject.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362301-nes_tmntiiithemanhattanproject.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362301-nes_tmntiiithemanhattanproject.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362301-nes_tmntiiithemanhattanproject.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362301-nes_tmntiiithemanhattanproject.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362301-nes_tmntiiithemanhattanproject.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Teenage Mutant Ninja Turtles III: The Manhattan Project"
+        },
+        {
+            "deck": "Nightshade is a humorous adventure game for the NES.",
+            "id": 1848,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362086-nes_nightshade.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362086-nes_nightshade.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362086-nes_nightshade.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362086-nes_nightshade.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362086-nes_nightshade.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362086-nes_nightshade.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362086-nes_nightshade.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362086-nes_nightshade.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362086-nes_nightshade.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Nightshade"
+        },
+        {
+            "deck": "The last of the NES Ninja Gaiden trilogy.",
+            "id": 1850,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362089-nes_ninjagaiden3.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362089-nes_ninjagaiden3.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362089-nes_ninjagaiden3.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362089-nes_ninjagaiden3.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362089-nes_ninjagaiden3.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362089-nes_ninjagaiden3.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362089-nes_ninjagaiden3.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362089-nes_ninjagaiden3.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362089-nes_ninjagaiden3.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Ninja Gaiden III: The Ancient Ship of Doom"
+        },
+        {
+            "deck": "A football game from Nintendo for the NES",
+            "id": 1853,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362083-nes_nesplayactionfootball_2.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362083-nes_nesplayactionfootball_2.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362083-nes_nesplayactionfootball_2.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362083-nes_nesplayactionfootball_2.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362083-nes_nesplayactionfootball_2.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362083-nes_nesplayactionfootball_2.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362083-nes_nesplayactionfootball_2.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362083-nes_nesplayactionfootball_2.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362083-nes_nesplayactionfootball_2.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "NES Play Action Football"
+        },
+        {
+            "deck": "Quattro Arcade is a game that was originally released for the Nintendo Entertainment System in 1992. It featured 4 games in one cartridge.\n1.  F-16 Renegade\n2.  C.J.’s Elephant Antics\n3.  Go! Dizzy Go!\n4.  Stunt Buggies",
+            "id": 1856,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/941343-4_quattro_arcade_cover.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/941343-4_quattro_arcade_cover.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/941343-4_quattro_arcade_cover.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/941343-4_quattro_arcade_cover.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/941343-4_quattro_arcade_cover.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/941343-4_quattro_arcade_cover.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/941343-4_quattro_arcade_cover.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/941343-4_quattro_arcade_cover.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/941343-4_quattro_arcade_cover.jpg",
+                "image_tags": "All Images"
+            },
+            "name": "Quattro Arcade"
+        },
+        {
+            "deck": "A puzzle game by Tecmo, in which the player must extinguish fires using blocks of ice to clear stages of increasing difficulty. It is a prequel to Solomon's Key, and was known in most regions as Solomon's Key 2.",
+            "id": 1859,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2361734-nes_firenice.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2361734-nes_firenice.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2361734-nes_firenice.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2361734-nes_firenice.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2361734-nes_firenice.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2361734-nes_firenice.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2361734-nes_firenice.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2361734-nes_firenice.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2361734-nes_firenice.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Fire 'n Ice"
+        },
+        {
+            "deck": "Classic turn based strategy game based on the classic Chinese novel \"Water Margin.\"",
+            "id": 1865,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/832938-bandit.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/832938-bandit.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/832938-bandit.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/832938-bandit.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/832938-bandit.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/832938-bandit.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/832938-bandit.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/832938-bandit.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/832938-bandit.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Bandit Kings of Ancient China"
+        },
+        {
+            "deck": "A sequel to Saint Seiya: Ougon Densetsu, based on the Saint Seiya anime and manga. It was only released in Japan for the Famicom.",
+            "id": 1868,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/558576-saint_seiya_ougon_densetsu_kanketsu_hen_box.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/558576-saint_seiya_ougon_densetsu_kanketsu_hen_box.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/558576-saint_seiya_ougon_densetsu_kanketsu_hen_box.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/558576-saint_seiya_ougon_densetsu_kanketsu_hen_box.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/558576-saint_seiya_ougon_densetsu_kanketsu_hen_box.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/558576-saint_seiya_ougon_densetsu_kanketsu_hen_box.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/558576-saint_seiya_ougon_densetsu_kanketsu_hen_box.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/558576-saint_seiya_ougon_densetsu_kanketsu_hen_box.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/558576-saint_seiya_ougon_densetsu_kanketsu_hen_box.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Saint Seiya: Ougon Densetsu - Kanketsu Hen"
+        },
+        {
+            "deck": "This shape-based Russian mind-bender set the stage for innumerable puzzle games to follow.",
+            "id": 1896,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2362306-nes_tetris.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2362306-nes_tetris.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2362306-nes_tetris.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2362306-nes_tetris.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2362306-nes_tetris.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2362306-nes_tetris.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2362306-nes_tetris.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2362306-nes_tetris.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2362306-nes_tetris.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Tetris"
+        },
+        {
+            "deck": "A NES platformer released in Japan, August 9th 1991.",
+            "id": 1911,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/528978-armadillo_box.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/528978-armadillo_box.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/528978-armadillo_box.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/528978-armadillo_box.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/528978-armadillo_box.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/528978-armadillo_box.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/528978-armadillo_box.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/528978-armadillo_box.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/528978-armadillo_box.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Armadillo"
+        },
+        {
+            "deck": null,
+            "id": 1970,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/2199921-nestrolls_on_treasure_island_without_troll.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/2199921-nestrolls_on_treasure_island_without_troll.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/2199921-nestrolls_on_treasure_island_without_troll.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/2199921-nestrolls_on_treasure_island_without_troll.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/2199921-nestrolls_on_treasure_island_without_troll.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/2199921-nestrolls_on_treasure_island_without_troll.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/2199921-nestrolls_on_treasure_island_without_troll.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/2199921-nestrolls_on_treasure_island_without_troll.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/2199921-nestrolls_on_treasure_island_without_troll.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Trolls on Treasure Island"
+        },
+        {
+            "deck": "The first in the Heracles no Eikou series of Ancient Greek-themed JRPGs created for the Famicom.",
+            "id": 1973,
+            "image": {
+                "icon_url": "https://www.giantbomb.com/api/image/square_avatar/569563-hercules_no_eikou_box_front.jpg",
+                "medium_url": "https://www.giantbomb.com/api/image/scale_medium/569563-hercules_no_eikou_box_front.jpg",
+                "screen_url": "https://www.giantbomb.com/api/image/screen_medium/569563-hercules_no_eikou_box_front.jpg",
+                "screen_large_url": "https://www.giantbomb.com/api/image/screen_kubrick/569563-hercules_no_eikou_box_front.jpg",
+                "small_url": "https://www.giantbomb.com/api/image/scale_small/569563-hercules_no_eikou_box_front.jpg",
+                "super_url": "https://www.giantbomb.com/api/image/scale_large/569563-hercules_no_eikou_box_front.jpg",
+                "thumb_url": "https://www.giantbomb.com/api/image/scale_avatar/569563-hercules_no_eikou_box_front.jpg",
+                "tiny_url": "https://www.giantbomb.com/api/image/square_mini/569563-hercules_no_eikou_box_front.jpg",
+                "original_url": "https://www.giantbomb.com/api/image/original/569563-hercules_no_eikou_box_front.jpg",
+                "image_tags": "All Images,Box Art"
+            },
+            "name": "Heracles no Eikou: Toujin Makyou Den"
+        }]
